@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+ul, li, p, h4{
+  margin: 0;
+  padding: 0
+}
+h1.App-title {
+  margin: 0;
+  width: 57%;
+  display: inline-block;
+  text-align: left;
+  line-height: 50px;
+}
+.nev-link {
+  width: 40%;
+  display: inline-block;
+  margin: 0;
+  text-align: right;
+}
+.nev-link>li {
+  display: inline-block;
+}
+.nev-link> li > a {
+  color: #fff;
+  text-decoration: none;
+}
+.nev-link>li:nth-child(2) {
+  padding: 0 5px;
+}
+.Home-Table {
+  margin: 50px auto;
+}

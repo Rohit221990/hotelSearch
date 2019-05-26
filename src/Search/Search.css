@@ -1,0 +1,22 @@
+.filter-option {
+	width: 30%;
+	float:right;
+	margin-bottom: 10px;
+}
+
+.coins-details-container {
+	width: 90%;
+	margin: 0 auto;
+}
+
+
+.coin-title {
+	float: left;
+}
+
+
+.coins-details-header {
+	padding:20px 0;
+	display: inline-block;
+    width: 100%;
+}
